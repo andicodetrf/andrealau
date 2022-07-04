@@ -690,7 +690,9 @@ div.tenure {
   -ms-box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
   -o-box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
   box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
-  border-bottom: 2px solid #2c98f0; }
+  border: 2px solid #fff; 
+  /* border-bottom: 2px solid #2c98f0;  */
+}
   .services .icon2 {
     display: block;
     margin-bottom: 20px; }
@@ -709,7 +711,6 @@ div.tenure {
       background-size: contain;
       background-position: center; 
       z-index: -5;
-      /* border-bottom: 2px solid rgb(50,63,79); */
     }
     .cert-desc span{
       display: none;
@@ -736,7 +737,7 @@ div.tenure {
       background-color: rgb(30,64,84);
     }
 
-  .services.color-2 {
+  /* .services.color-2 {
     border-bottom: 2px solid #ec5453; }
     .services.color-2 .icon2 i {
       color: #ec5453; }
@@ -751,7 +752,7 @@ div.tenure {
   .services.color-5 {
     border-bottom: 2px solid #2fa499; }
   .services.color-6 {
-    border-bottom: 2px solid #4054b2; }
+    border-bottom: 2px solid #4054b2; } */
 
 .services {
   margin-bottom: 80px;
