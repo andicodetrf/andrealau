@@ -841,7 +841,8 @@ div.tenure {
 .progress-wrap span {
     /* background-color: rgb(50,63,79);  */
     background-color: rgb(254, 180, 11);
-    color: rgb(30,64,84)
+    color: rgb(30,64,84);
+    font-size: 13px;
   }
 
 .progress {
