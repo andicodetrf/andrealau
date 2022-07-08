@@ -563,6 +563,10 @@ body.offcanvas {
   background: rgb(254, 180, 11) !important;
 }
 
+.edu-title {
+  margin-bottom: 10px;
+}
+
 .timeline-centered {
   position: relative;
   margin-bottom: 30px; }
